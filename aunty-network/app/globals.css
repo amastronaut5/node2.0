@@ -11,7 +11,7 @@
   --popover: oklch(1 0 0); /* White for popover backgrounds */
   --popover-foreground: oklch(0.35 0.01 250); /* Gray for popover text */
   --primary: oklch(0.45 0.15 45); /* Warm yellow for primary actions */
-  --primary-foreground: oklch(1 0 0); /* White text on primary buttons */
+  --primary-foreground: oklch(59.134% 0.23576 28.595); /* White text on primary buttons */
   --secondary: oklch(0.55 0.18 35); /* Amber for secondary actions */
   --secondary-foreground: oklch(1 0 0); /* White text on secondary buttons */
   --muted: oklch(0.96 0.01 250); /* Soft gray for muted backgrounds */

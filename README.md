@@ -28,7 +28,7 @@ A project written primarily in TypeScript, with some CSS and JavaScript, aiming 
 
 ```bash
 git clone https://github.com/amastronaut5/node2.0.git
-cd node2.0
+cd aunty-network
 npm install
 ```
 

@@ -929,8 +929,8 @@ const AuntyNetworkApp = () => {
         </Button>
       </div>
 
-      <div className="bg-amber-50 p-4 rounded-lg border border-amber-200">
-        <div className="flex items-center gap-2 mb-2">
+      <div className="bg-amber-50 p-4 rounded-lg border border-amber-200 flex justify-center flex-col items-center">
+        <div className="flex items-center gap-2 mb-2 justify-center">
           <Camera className="w-5 h-5 text-amber-600" />
           <span className="font-medium text-amber-800">Upload a photo</span>
         </div>
@@ -1046,7 +1046,7 @@ const AuntyNetworkApp = () => {
             <div className="p-4">
               <div className="flex items-center gap-2 mb-4">
                 <MessageCircle className="w-5 h-5 text-gray-600" />
-                <h4 className="font-semibold text-gray-800">Aunty Network Intel ({post.intel.length})</h4>
+                <h4 className="font-semibold text-gray-800 focus">Aunty Network Intel ({post.intel.length})</h4>
               </div>
 
               <div className="space-y-3">
